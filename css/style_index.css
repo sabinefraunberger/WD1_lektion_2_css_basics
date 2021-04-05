@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(220,220,220);
+}
+
+h1 {
+    font-family: monospace;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.big {
+    font-size: 20px;
+}
+
+p {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+.boxed {
+    border: 3px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 50px;
+    background-color: white;
+}
+
+.image {
+    border: 6px black dotted;
+    padding: 3px;
+}
+
+.image:hover {
+    border: 6px red solid;
+}
